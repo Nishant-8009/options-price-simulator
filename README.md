@@ -1,4 +1,3 @@
-Got it — you want to personalize and rephrase the README so it feels **authentically yours** and not just a copy of someone else's work. Below is a **completely rewritten, 
 # 🧠 Option Pricing Simulator
 
 ### 📍 Maintained by [Nishant Malhotra](https://github.com/Nishant-8009)  
